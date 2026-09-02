@@ -1,0 +1,9 @@
+Tier A (XGBoost) Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.98      0.94      0.96       104
+           1       0.97      0.99      0.98       196
+
+    accuracy                           0.97       300
+   macro avg       0.97      0.97      0.97       300
+weighted avg       0.97      0.97      0.97       300

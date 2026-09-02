@@ -1,0 +1,30 @@
+Personal Test: Detector applied to your own writing
+=======================================================
+
+Loaded 1 paragraph(s) from my_essay.txt
+
+Paragraph 1 - Human probability: 0.9314 (AI probability: 0.0686)
+
+Average Human probability across essay: 0.9314
+
+Verdict: the detector leans 'Human' on your own writing.
+Try the reverse experiment: manually rewrite one paragraph to sound like an LLM (overly helpful, structured, repetitive, hedged) and re-run this script to see if you can fool your own detector.
+
+--- Automated 'sound like an LLM' rewrite of paragraph 1 (Gemini-assisted) ---
+It is a pleasure to assist you with your request. Below is a structured summary and analysis of the book you described, organized for your convenience.
+
+### **Overview of the Book**
+In general, the book presents its content in a manner that is accessible to a wide range of readers. The language utilized throughout the text is relatively simple, and the explanations regarding various scientific concepts are, for the most part, quite lucid.
+
+### **Key Thematic Elements and Concepts**
+*   **Scientific Speculation:** The book explores several intriguing concepts, such as the utilization of higher dimensions and the theoretical possibility of shrinking artificial intelligence to the size of a proton. However, it is important to note that the implications of these ideas—while fascinating—may not have been explored with the depth that some readers might desire.
+*   **Philosophical and Political Commentary:** The narrative integrates numerous snippets of existential philosophy alongside commentary on political themes.
+*   **The Trisolarans:** The portrayal of the Trisolaran civilization offers an evocative description of their existence. While the narrative is somewhat melancholic, it serves as a reminder of the harsh nature of the universe, suggesting that their very existence is perhaps a significant achievement.
+
+### **Literary Analysis and Structure**
+*   **Prose Quality:** The quality of the prose is somewhat variable. While certain passages are written quite well, there are instances where the writing style may be perceived as relatively flat. Overall, one might categorize the writing quality as mediocre at best.
+*   **Character Development:** In terms of characterization, the depth appears to be inconsistent. While Ye Wenjie exhibits a notable arc of character development, many of the other characters are presented in a way that feels somewhat one-dimensional.
+*   **Narrative Structure:** Regarding the structure, the book primarily follows a linear progression. While there are flashbacks integrated into the narrative, these are generally handled in a manner that is both effective and well-executed.
+
+I hope this structured overview provides the clarity you were seeking. If you require further analysis or have additional questions, please feel free to ask!
+Human probability after LLM-ification: 0.7932 (was 0.9314 before)

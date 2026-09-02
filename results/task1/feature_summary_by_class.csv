@@ -1,0 +1,6 @@
+,TTR,TTR,Hapax_Ratio,Hapax_Ratio,Adj_Noun_Ratio,Adj_Noun_Ratio,Avg_Tree_Depth,Avg_Tree_Depth,Flesch_Kincaid,Flesch_Kincaid,Semicolons,Semicolons,Em_Dashes,Em_Dashes,Exclamations,Exclamations
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+class_name,,,,,,,,,,,,,,,,
+Human,0.7176,0.0847,0.5866,0.102,0.395,0.2136,6.802,1.9713,11.1002,7.2505,1.384,2.0671,0.746,1.6306,0.646,1.7615
+AI_Standard,0.7726,0.0289,0.67,0.0386,0.6255,0.1216,7.7183,0.8327,17.2714,1.8439,0.33,0.4833,0.884,0.9902,0.0,0.0
+AI_Mimic,0.7499,0.0269,0.6707,0.0357,0.6409,0.1158,8.2283,1.067,13.8588,1.927,0.536,0.5808,0.88,0.8667,0.42,0.7434

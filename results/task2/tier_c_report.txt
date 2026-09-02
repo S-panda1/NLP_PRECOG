@@ -1,0 +1,13 @@
+Tier C (RoBERTa LoRA) Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       104
+           1       1.00      1.00      1.00       196
+
+    accuracy                           1.00       300
+   macro avg       1.00      1.00      1.00       300
+weighted avg       1.00      1.00      1.00       300
+
+
+Eval Results:
+{'eval_loss': 0.0009251181036233902, 'eval_runtime': 54.6436, 'eval_samples_per_second': 5.49, 'eval_steps_per_second': 0.695, 'epoch': 3.0}
